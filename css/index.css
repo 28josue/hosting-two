@@ -1,0 +1,12 @@
+h1 {
+    color: brown;
+}
+
+.banner-clashosting {
+    width: 400px;
+}
+
+.banner-clashosting img {
+    width: 100%;
+    margin: auto;
+}
